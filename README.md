@@ -2,6 +2,8 @@
 
 This is a to do list, my beginner project created with React.
 
+![a screenshot of the app](https://github.com/lakiert/react-to-do-list/blob/main/screenshots/screenshot1.PNG)
+
 ## Run this project locally
 
 To install and run this project locally:

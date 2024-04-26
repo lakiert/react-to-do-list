@@ -1,6 +1,7 @@
 # TODO list
 
 This is a to do list, my beginner project created with React.
+
 You can check it out here: https://lakiert-todo-list.netlify.app
 
 ![a screenshot of the app](https://github.com/lakiert/react-to-do-list/blob/main/screenshots/screenshot1.PNG)
